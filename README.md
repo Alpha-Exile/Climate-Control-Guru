@@ -1,5 +1,5 @@
 # Climate Control Guru Overview
-This app implements night and day venting using whole house fans and/or other ventilation equipment by strategically introducing outside air. It can supplement or in some climates take the place of conventional air-conditioners or heaters. It makes use of inside sensors along with current and forecast conditions from Weather Underground to accurately predict and fully automate when and how much to ventilate.  
+This app implements night and day venting using whole house fans and/or other ventilation equipment by strategically introducing outside air. It can supplement or in some climates take the place of conventional air-conditioners or heaters. It makes use of inside sensors along with current and forecast conditions from Weather Underground to accurately predict and fully automate when and how much to ventilate. Additionally, window coverings can be automatically manipulated to save energy.
 
 Configurations typically include an indoor temperature sensor, a whole house fan, and motorized windows/skylights (though manually controlled windows with contact sensors are also an option). This app also automatically sets your thermostat to heating or cooling and turns it off during venting. A simple learning algorithm allows the app to better regulate inside temperatures over time. Learn more at LawsonAutomation.com.
 
